@@ -8,7 +8,7 @@ Each project reflects a focus on functionality, clean interfaces, and user-cente
 
 ## ✨ Projects
 
-### 1. Faleh App – Social Volunteering Platform
+### 1. Faleh App –
 🔗 [View on Figma](https://www.figma.com/design/SUEdt3kIpSpyo9lyP8e4HF/Faleh-app?node-id=0-1&t=9vlzxI5IBIAH7oi8-1)
 
 
@@ -16,7 +16,7 @@ Each project reflects a focus on functionality, clean interfaces, and user-cente
 
 ---
 
-### 2. Untitled Concept #1 – Modern Dashboard
+### 2.Modern Dashboard
 🔗 [View on Figma](https://www.figma.com/design/jz4gUjokBSga7rXJFcakoS/Untitled?node-id=0-1&t=Jb1PE27Lhr8ZNj2w-1)
 
 
@@ -24,7 +24,7 @@ Each project reflects a focus on functionality, clean interfaces, and user-cente
 
 ---
 
-### 3. Untitled Concept #2 – Mobile App UI
+### 3. Mobile App UI
 🔗 [View on Figma](https://www.figma.com/design/BM9yGbO6tfXDeUGZ1lSMaD/Untitled?node-id=0-1&t=ttlL5XZYsYZIgX5k-1)
 
 
