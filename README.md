@@ -35,5 +35,5 @@ Each project reflects a focus on functionality, clean interfaces, and user-cente
 
 ---
 
-## 📁 Folder Structure
+
 
